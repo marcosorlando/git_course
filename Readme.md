@@ -1,3 +1,2 @@
 Primeiro arquivo do Curso de Git
-
-Apenas onde teste˜!
+Apenas onde teste!
