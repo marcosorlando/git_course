@@ -1,6 +1,3 @@
-Primeiro arquivo do Curso de Git
-Apenas onde teste!
-
-
-
+# Curso de Git e Github para Iniciantes
+Versionando com Tags
 [Zen Agência Web](https://zen.ppg.br)
